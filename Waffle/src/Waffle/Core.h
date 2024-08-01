@@ -6,7 +6,6 @@
 	#else
 		#define WAFFLE_API __declspec(dllimport)
 	#endif
-
-//	#else
-	//#error Waffle only supports windows
+#else
+	#error "Waffle only supports windows"
 #endif
