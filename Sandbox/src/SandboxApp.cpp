@@ -4,7 +4,7 @@
 class Sandbox : public Waffle::Application {
 public:
 	Sandbox() {
-
+		//Waffle::Log::GetClientLogger();
 	}
 	~Sandbox() {
 
