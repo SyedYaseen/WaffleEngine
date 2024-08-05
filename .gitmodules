@@ -1,0 +1,3 @@
+[submodule "Waffle/external/spdlog"]
+	path = Waffle/external/spdlog
+	url = https://github.com/gabime/spdlog.git
